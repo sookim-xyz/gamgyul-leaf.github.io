@@ -105,8 +105,8 @@ analytics:
 # Site Author
 author:
   name: "Sookyung Kim"
-  avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "Now I'm working for Sales Enginner of Datadog Korea"
+  avatar: "/assets/images/profile.jpeg"
+  bio: "I'm working for Sales Enginner of Datadog Korea"
   location: "Seoul, South Korea"
   email:
   links:
