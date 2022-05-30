@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Heroku에 Python 앱 배포하기"
+title: "deplying Python application on Heroku"
 categories: datadog
 tags: [heroku, python]
 toc: true
