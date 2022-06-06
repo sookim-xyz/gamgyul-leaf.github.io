@@ -4,6 +4,9 @@ title: "deplying Python application on Heroku"
 categories: datadog
 tags: [heroku, python]
 toc: true
+author_profile: false
+sidebar:
+  nav: "docs"
 ---
 
 ## 1. Create new app in Heroku

@@ -6,3 +6,19 @@ main:
     url: /categories/
   - title: "Tag"
     url: /tags/
+
+docs:
+  - title: "Datadog"
+    children:
+      - title: "Integration"
+        url: /tags/#python
+      - title: "APM"
+        url: /categories/#aws
+      - title: "Logs"
+        url: /categories/#aws
+  - title: "AWS"
+    children:
+      - title: "Datadog"
+        url: /categories/#datadog
+      - title: "AWS"
+        url: /categories/#aws
