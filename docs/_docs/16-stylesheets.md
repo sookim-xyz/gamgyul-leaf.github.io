@@ -133,7 +133,7 @@ Example:
 ```scss
 .page__lead {
   font-family: $global-font-family;
-  font-size: $type-size-6;
+  font-size: $type-size-4;
 }
 ```
 
