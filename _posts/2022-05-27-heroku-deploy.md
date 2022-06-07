@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "deplying Python application on Heroku"
+title: "Python 앱을 Heroku에 배포하기"
 categories: tech
 tags: [heroku, python]
 toc: true
