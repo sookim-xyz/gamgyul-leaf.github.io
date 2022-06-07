@@ -1,13 +1,18 @@
 ---
 layout: single
 title: "deplying Python application on Heroku"
-categories: datadog
+categories: tech
 tags: [heroku, python]
 toc: true
 author_profile: false
 sidebar:
   nav: "docs"
+header:
+  overlay_image: "https://miro.medium.com/max/1400/1*IdXgBSagHPsp_3E8JwMT4Q.png"
+  overlay_filter: 0.5
 ---
+
+애플리케이션을 손쉽게 배포 할 수 있는 플랫폼 중, Heroku 라고 하는 관리형 서비스가있다.
 
 ## 1. Create new app in Heroku
 

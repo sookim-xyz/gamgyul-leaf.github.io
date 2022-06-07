@@ -7,3 +7,5 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+@import url("//cdn.jsdelivr.net/gh/wan2land/d2coding/d2coding-full.css");
