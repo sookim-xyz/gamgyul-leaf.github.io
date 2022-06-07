@@ -28,7 +28,7 @@ $max-width: 1600px; // default $x-large
 // 원본위치: [remote-theme]/_sass/minimal-mistakes/_reset.scss
 //
 html {
-  font-size: 10px; // Default 16px;
+  font-size: 16px; // Default 16px;
 
   @include breakpoint($medium) {
     font-size: 16px; // Default 18px;
