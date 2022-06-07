@@ -128,6 +128,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/sookyung-kim-843220b2"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UC1rjXcgHR2xwq6TsIjxZeyg"
 
 # Site Footer
 footer:
@@ -138,6 +141,9 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/sookyung-kim-843220b2"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UC1rjXcgHR2xwq6TsIjxZeyg"
 
 # Reading Files
 include:
