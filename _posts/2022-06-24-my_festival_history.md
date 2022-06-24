@@ -2,15 +2,15 @@
 layout: single
 title: "...여름이었다! : 나의 페스티벌 역사"
 categories: lifestyle
-tags: [culture, festival, seouljazzfestival]
+tags: [culture, festival, seouljazzfestival, jazz]
 toc: true
 author_profile: false
 sidebar:
   nav: "docs"
 header:
-  overlay_image: "https://cdn.pixabay.com/photo/2016/07/20/22/15/crowd-1531431_1280.jpg"
+  overlay_image: "https://cdn.pixabay.com/photo/2016/11/29/06/17/audience-1867754_1280.jpg"
   overlay_filter: 0.5
-  teaser: "https://cdn.pixabay.com/photo/2016/07/20/22/15/crowd-1531431_1280.jpg"
+  teaser: "https://cdn.pixabay.com/photo/2016/11/29/06/17/audience-1867754_1280.jpg"
 ---
 
 나는 음악 페스티벌을 무척 좋아한다. 물론 공연장 내에서 하는 콘서트나 오케스트라같은 공연도 매우 좋아하지만, 노래 사이사이에 오는 적막과 품위유지가 가끔은 숨막히게 다가올때가 있다. 이와는 정반대로 페스티벌의 가장 큰 장점은 야외의 날씨와 음식을 공연의 현장감과 함께 즐길 수 있다는 것. 다시 말해 자유다 (음식이다)
