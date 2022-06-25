@@ -19,7 +19,7 @@ header:
 
 ## <span style="color:#DE7003">서울 재즈 페스티벌 2015</span>
 
-![2015-image](http://seouljazz.co.kr/data/file/history/thumb-238290393_BJi27R8l_f87363f12b6ab3c147fa02d5f564c49c74f4e2b0_320x452.jpg){: style="float: left; margin-right: 1em; width: 350px"}
+![2015-image](http://seouljazz.co.kr/data/file/history/thumb-238290393_BJi27R8l_f87363f12b6ab3c147fa02d5f564c49c74f4e2b0_320x452.jpg){: style="float: left; margin-right: 1em; width: 250px"}
 이 당시, 내가 이 페스티벌을 가게 된 이유는 단 한명의 아티스트, **_카로 에메랄드_**를 보기 위해서였다. 지금도 그렇지만 내가 좋아하는 아티스트의 앨범은 항상 구매 후에 핸드폰에 음원파일을 옮겨두거나 MP3 파일을 구매하여 소장하는 이상한 버릇이 있는데, 그 시기의 MP3 플레이 리스트엔 항상 카로 에메랄드의 앨범이 있었고 <span style="color:#DE7003">'Liquid Launch', 'Tangled Up', 'Completely'</span> 같은 노래에 푹 빠져 살았었다. 사전정보 없이 무작정 갔던터라 좋은 자리에서 볼 수는 없었지만 매일 음원으로만 듣던 아티스트의 라이브를 실제로 봤다는 사실에 매우 벅찼던 것같다. 특히나 Liquid launch의 쿵짝거리는 기타소리에 맞추어서 모든 관객들이 뛰던 모습이 아직 잊혀지지 않았고, 카로 에메랄드의 처음이자 마지막 내한무대가 되어서 본의아니게 더 유니크한 무대가 되었다.
 
 아는 사람들은 알겠지만 서재페는 티켓값도 매우 비싼 편이며 심지어 티켓을 구하기도 굉장히 어렵다. ~~페스티벌계의 에르메스~~ 지금 이 글을 쓰면서 그 때의 라인업을 보니, 이 때는 3일을 꽉 채운 스케줄인데다가 재즈 아티스트의 비중이 꽤 높았던 것 같고 이정도의 퀄리티라면 기꺼이 비싼 돈을 낼 만하지 않았나 싶다.
